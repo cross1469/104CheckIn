@@ -1,0 +1,19 @@
+{
+  "browser": {
+      "background": false,
+      "user_data": "./userdata",
+      "chrome_path": "/Applications/Microsoft Edge.app/Contents/MacOS/Microsoft Edge"
+  },
+  "urls": {
+      "login": "https://pro.104.com.tw/user/signin?m=appcenter",
+      "checkin": "https://pro.104.com.tw/psc2"
+  },
+  "user": {
+      "username": "",
+      "password": ""
+  },
+  "dry_run": false,
+  "otp_timeout_ms": 300000,
+  "timeout_ms": 15000,
+  "random_sec": 420
+}
